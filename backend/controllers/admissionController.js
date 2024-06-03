@@ -32,11 +32,11 @@ module.exports = {
 
       // {
     //     "confineDate": "2024-05-03T12:00:00Z",
-    //     "diagnosis": "Lung Cancer",
+    //     "diagnosis": "Mouth Cancer",
     //     "dischargeDate": null,
     //     "attendingDoctor": {
-    //       "firstName": "Jane",
-    //       "lastName": "Smith",
+    //       "firstName": "Mark",
+    //       "lastName": "Tahimik",
     //       "speciality": "Cancer"
     //     }
     //   }
