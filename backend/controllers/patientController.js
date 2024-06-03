@@ -86,7 +86,7 @@ module.exports.createPatient = (req, res) => {
 //   {
 //     "firstName": "First",
 //     "lastName": "Surname",
-//     "suffix": "Sr",
+//     "suffix": "Sr.",
 //     "age": 15,
 //     "phoneNumber": "09123456789"
 //     "allergies": ["C", "B"],
