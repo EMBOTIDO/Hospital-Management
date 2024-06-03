@@ -5,11 +5,11 @@ const mongoose = require("mongoose");
 // NESTED DOCUMENTS
 
 // {
-// 	“firstName”: “Wowers”,
-// 	“lastName”: “McArthur”,
+// 	“firstName”: “Jonathan”,
+// 	“lastName”: “Mcdonalds”,
 // 	“age”: 22,
 // 	“false,
-// 	“allergies”: [“peanuts”, “shrimp”],
+// 	“allergies”: [“Chicken”, “Fish”],
 // 	“admissions”: [
 // 		{
 // 			“confineDate”: “2024-04-29”,
